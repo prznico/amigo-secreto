@@ -14,7 +14,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
 
 Clona el repositorio:
    ```bash
-   git clone https:https://github.com/prznico/amigo-secreto.git
+   git clone https://github.com/prznico/amigo-secreto.git
    ```
 
 Navega hasta el directorio del proyecto
